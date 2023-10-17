@@ -1,2 +1,2 @@
-# latihan-branch
-Latihan membuat branch
+README.md
+**Ini adalah repository untuk latihan membuat branch baru di Github.**
